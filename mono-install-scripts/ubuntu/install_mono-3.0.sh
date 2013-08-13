@@ -24,15 +24,15 @@ echo
 
 cd $BUILDDIR
 
-PACKAGES=("mono-3.0.10"
+PACKAGES=("mono-3.2.1"
 "libgdiplus-2.10.9"
-"gtk-sharp-2.12.11"
+"gtk-sharp-2.12.21"
 "xsp-2.10.2"
 "mod_mono-2.10")
 
-URLS=("http://download.mono-project.com/sources/mono/mono-3.0.10.tar.bz2"
+URLS=("http://download.mono-project.com/sources/mono/mono-3.2.1.tar.bz2"
 "http://download.mono-project.com/sources/libgdiplus/libgdiplus-2.10.9.tar.bz2"
-"http://download.mono-project.com/sources/gtk-sharp212/gtk-sharp-2.12.11.tar.bz2"
+"http://download.mono-project.com/sources/gtk-sharp212/gtk-sharp-2.12.21.tar.bz2"
 "http://download.mono-project.com/sources/xsp/xsp-2.10.2.tar.bz2"
 "http://download.mono-project.com/sources/mod_mono/mod_mono-2.10.tar.bz2")
 
